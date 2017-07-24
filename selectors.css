@@ -1,0 +1,24 @@
+header {
+	border: 1px solid hotpink;
+}
+.headerTags {
+	list-style: none;
+}
+.disabled {
+	color: gray;
+}
+.disabled2 {
+	color: purple;
+}
+.active {
+	color: yellow;
+}
+.imRed {
+	color: red;
+}
+.imBlue {
+	color: blue;
+}
+
+
+
